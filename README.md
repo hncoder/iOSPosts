@@ -14,12 +14,12 @@
 3. 部分系统应用资料存放目录介绍
 4. 应用沙盒目录介绍
 
-## 第三讲：[iOS之系统启动流程](./posts/2016-11-03-ios-boot-process.md)
+## 第三篇：[iOS之系统启动流程](./posts/2016-11-03-ios-boot-process.md)
 
 1. 传统计算机系统启动
 2. iOS设备系统启动
 
-## 第四讲：[iOS之初始化进程launchd](./posts/2016-11-13-ios-launchd-process.md)
+## 第四篇：[iOS之初始化进程launchd](./posts/2016-11-13-ios-launchd-process.md)
 
 1. 初始化进程launchd
 2. 守护程序SpringBoard
